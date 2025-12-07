@@ -1,0 +1,14 @@
+title: PocketLog
+description: Your private, people-first journal for nurturing relationships that matter.
+theme: jekyll-theme-cayman
+show_downloads: false
+
+# GitHub Pages settings
+url: "https://pocketlog.github.io"
+baseurl: ""
+
+# Exclude files from the build
+exclude:
+  - README.md
+  - LICENSE
+  - CNAME

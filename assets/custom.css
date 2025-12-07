@@ -1,0 +1,120 @@
+/* Custom styles for PocketLog Support Site */
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Enhanced details/summary styling */
+details {
+  transition: all 0.3s ease;
+}
+
+details[open] {
+  padding-bottom: 0.5rem;
+}
+
+details summary {
+  list-style: none;
+  position: relative;
+  padding-right: 2rem;
+}
+
+details summary::-webkit-details-marker {
+  display: none;
+}
+
+details summary::after {
+  content: "+";
+  position: absolute;
+  right: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 1.5rem;
+  font-weight: 300;
+  color: #586069;
+  transition: transform 0.2s ease;
+}
+
+details[open] summary::after {
+  content: "−";
+}
+
+/* Table styling enhancements */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1rem 0;
+}
+
+table th,
+table td {
+  padding: 0.75rem 1rem;
+  text-align: left;
+  border-bottom: 1px solid #e1e4e8;
+}
+
+table th {
+  background: #f6f8fa;
+  font-weight: 600;
+}
+
+table tr:hover {
+  background: #f6f8fa;
+}
+
+/* Link hover effects */
+a {
+  transition: color 0.2s ease, opacity 0.2s ease;
+}
+
+a:hover {
+  opacity: 0.8;
+}
+
+/* Button hover effects */
+a[style*="background"] {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+a[style*="background"]:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Card hover effects */
+div[style*="border-radius: 12px"],
+div[style*="border-radius: 8px"] {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+div[style*="border-radius: 12px"]:hover,
+div[style*="border-radius: 8px"]:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  div[style*="grid-template-columns"] {
+    grid-template-columns: 1fr !important;
+  }
+
+  table {
+    font-size: 0.9rem;
+  }
+
+  table th,
+  table td {
+    padding: 0.5rem;
+  }
+}
+
+/* Print styles */
+@media print {
+  div[style*="gradient"] {
+    background: #333 !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}
