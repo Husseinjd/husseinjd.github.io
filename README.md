@@ -4,7 +4,7 @@ This repository hosts the support website for PocketLog - a personal relationshi
 
 ## Website
 
-Visit: **[pocketlog.github.io](https://pocketlog.github.io)**
+Visit: **[husseinjd.github.io](https://husseinjd.github.io)**
 
 ## Pages
 
@@ -17,7 +17,7 @@ Visit: **[pocketlog.github.io](https://pocketlog.github.io)**
 ## Structure
 
 ```
-pocketlog.github.io/
+husseinjd.github.io/
 ├── _config.yml          # Jekyll configuration
 ├── _includes/
 │   └── head-custom.html # Custom head elements (CSS, meta tags)
@@ -48,7 +48,7 @@ This site uses GitHub Pages with the Jekyll Cayman theme. To enable:
 4. Choose `main` branch and `/ (root)` folder
 5. Save
 
-The site will be available at `https://pocketlog.github.io`
+The site will be available at `https://husseinjd.github.io`
 
 ## Local Development
 
