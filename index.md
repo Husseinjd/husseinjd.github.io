@@ -141,11 +141,13 @@ Notifications are delivered based on your device settings. If you miss one, the 
 <summary style="font-weight: 600; cursor: pointer;">Data & Privacy</summary>
 <div style="margin-top: 1rem;">
 <p><strong>Where is my data stored?</strong><br>
-All your data is stored locally on your device by default. If you enable iCloud sync, your data is also stored in your private iCloud account.</p>
+All your data is stored locally on your device by default. If you enable iCloud sync, your data (including imported contacts, logs, todos, and attachments) is also synced to your private iCloud account.</p>
+<p><strong>What happens when I import contacts?</strong><br>
+Imported contacts are stored locally on your device. If you have iCloud Sync enabled, they will also be synced to your private iCloud. The app clearly shows your sync status when importing contacts. We do not send contact data to any third-party servers.</p>
 <p><strong>Can I backup my data?</strong><br>
 Yes! Go to Settings &gt; Backup &amp; Restore to create a backup file (JSON format) that you can save or share. You can restore from this backup at any time. Note: Backup files are not encrypted, so store them in a secure location.</p>
 <p><strong>Is my data shared with anyone?</strong><br>
-No. PocketLog does not collect, share, or sell any of your data. Your information never leaves your device unless you explicitly enable iCloud sync (which uses your own Apple account).</p>
+No. PocketLog does not collect, share, or sell any of your data. Your information never leaves your device unless you explicitly enable iCloud sync (which syncs only to your own private iCloud account).</p>
 </div>
 </details>
 

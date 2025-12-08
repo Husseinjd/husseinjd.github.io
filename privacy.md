@@ -52,6 +52,27 @@ Your information stays on your device and under your control.
 
 </div>
 
+---
+
+## Contact Import & Data Handling
+
+<div style="background: #e3f2fd; border: 1px solid #2196f3; border-radius: 12px; padding: 1.5rem; margin: 1.5rem 0;">
+
+<h3 style="margin-top: 0; color: #1565c0;">📇 When You Import Contacts</h3>
+
+<p>PocketLog allows you to import contacts from your device's Contacts app. Here's exactly what happens:</p>
+
+<ol>
+<li><strong>Permission Request:</strong> The app requests access to your device contacts. You can choose to import all contacts or select specific ones.</li>
+<li><strong>Local Storage:</strong> Imported contact information (name, phone, email, address, birthday) is copied into PocketLog's local database on your device.</li>
+<li><strong>iCloud Sync (if enabled):</strong> If you have enabled iCloud Sync in PocketLog settings, imported contacts will be synced to your private iCloud account along with all other PocketLog data.</li>
+<li><strong>No Third-Party Servers:</strong> Contact data is <strong>never</strong> sent to our servers or any third-party service. The only cloud destination is your own private iCloud, and only if you explicitly enable it.</li>
+</ol>
+
+<p style="margin-bottom: 0;"><strong>Important:</strong> The app clearly displays your current sync status (local-only or iCloud) when importing contacts, so you always know where your data will be stored.</p>
+
+</div>
+
 <div style="background: #fff3cd; border: 1px solid #ffc107; border-radius: 8px; padding: 1rem; margin: 1rem 0;">
 <h4 style="margin-top: 0; color: #856404;">⚠️ Backup Files</h4>
 <p style="margin-bottom: 0; color: #856404;">

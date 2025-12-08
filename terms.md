@@ -64,12 +64,12 @@ PocketLog is a personal relationship management application that allows you to:
 
 When using PocketLog, you agree to:
 
-| ✓ | Responsibility |
-|---|----------------|
-| ✓ | Use the app only for lawful purposes |
-| ✓ | Not use the app to store illegal or harmful content |
-| ✓ | Maintain the security of your device and any backup files you create |
-| ✓ | Be responsible for all data you enter into the app |
+<ul>
+<li>Use the app only for lawful purposes</li>
+<li>Not use the app to store illegal or harmful content</li>
+<li>Maintain the security of your device and any backup files you create</li>
+<li>Be responsible for all data you enter into the app</li>
+</ul>
 
 ---
 
@@ -78,27 +78,27 @@ When using PocketLog, you agree to:
 The PocketLog app, including its design, features, and content, is protected by intellectual property laws.
 
 <div style="background: #fff3cd; border: 1px solid #ffc107; border-radius: 8px; padding: 1rem; margin: 1rem 0;">
-
-**You may not:**
-- ❌ Copy, modify, or distribute the app
-- ❌ Reverse engineer or attempt to extract the source code
-- ❌ Use the app's name or branding without permission
-
+<p style="margin-top: 0;"><strong>You may not:</strong></p>
+<ul style="margin-bottom: 0;">
+<li>Copy, modify, or distribute the app</li>
+<li>Reverse engineer or attempt to extract the source code</li>
+<li>Use the app's name or branding without permission</li>
+</ul>
 </div>
 
 ---
 
 ## Data and Privacy
 
-Your use of PocketLog is also governed by our [Privacy Policy](privacy), which explains how we handle your information.
+Your use of PocketLog is also governed by our <a href="privacy">Privacy Policy</a>, which explains how we handle your information.
 
 <div style="background: #d4edda; border: 1px solid #28a745; border-radius: 8px; padding: 1rem; margin: 1rem 0;">
-
-**Key Points:**
-- ✓ Your data is stored locally on your device
-- ✓ We do not collect or access your personal data
-- ✓ iCloud sync is optional and uses your Apple account
-
+<p style="margin-top: 0;"><strong>Key Points:</strong></p>
+<ul style="margin-bottom: 0;">
+<li>Your data is stored locally on your device</li>
+<li>We do not collect or access your personal data</li>
+<li>iCloud sync is optional and uses your Apple account</li>
+</ul>
 </div>
 
 ---
@@ -106,26 +106,25 @@ Your use of PocketLog is also governed by our [Privacy Policy](privacy), which e
 ## Disclaimer of Warranties
 
 <div style="background: #f6f8fa; border-radius: 8px; padding: 1.5rem; margin: 1rem 0;">
-
-PocketLog is provided **"as is"** without warranties of any kind, either express or implied. We do not warrant that:
-
-- The app will be error-free or uninterrupted
-- Any defects will be corrected
-- The app will meet your specific requirements
-
+<p style="margin-top: 0;">PocketLog is provided <strong>"as is"</strong> without warranties of any kind, either express or implied. We do not warrant that:</p>
+<ul style="margin-bottom: 0;">
+<li>The app will be error-free or uninterrupted</li>
+<li>Any defects will be corrected</li>
+<li>The app will meet your specific requirements</li>
+</ul>
 </div>
 
 ---
 
 ## Limitation of Liability
 
-To the maximum extent permitted by law, we shall not be liable for any:
+<p>To the maximum extent permitted by law, we shall not be liable for any:</p>
 
-| Type | Description |
-|------|-------------|
-| 📁 Loss of data | Data loss due to app issues, device problems, or user error |
-| ⚡ Indirect damages | Incidental, special, or consequential damages |
-| 🚫 Usage issues | Damages arising from your use or inability to use the app |
+<ul>
+<li><strong>Loss of data</strong> — Data loss due to app issues, device problems, or user error</li>
+<li><strong>Indirect damages</strong> — Incidental, special, or consequential damages</li>
+<li><strong>Usage issues</strong> — Damages arising from your use or inability to use the app</li>
+</ul>
 
 <div style="background: #ffebee; border: 1px solid #f44336; border-radius: 8px; padding: 1rem; margin: 1rem 0;">
 <strong>⚠️ Important:</strong> We strongly recommend creating regular backups of your data using the backup feature in Settings. Note that backup files are not encrypted, so store them securely.
@@ -135,11 +134,13 @@ To the maximum extent permitted by law, we shall not be liable for any:
 
 ## Data Loss
 
-While we design PocketLog to reliably store your data, we cannot guarantee against data loss.
+<p>While we design PocketLog to reliably store your data, we cannot guarantee against data loss.</p>
 
-**You are responsible for:**
-- Maintaining backups of important data
-- Understanding that deleted data cannot be recovered without a backup
+<p><strong>You are responsible for:</strong></p>
+<ul>
+<li>Maintaining backups of important data</li>
+<li>Understanding that deleted data cannot be recovered without a backup</li>
+</ul>
 
 ---
 
