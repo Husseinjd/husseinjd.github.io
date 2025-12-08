@@ -106,16 +106,16 @@ When you use PocketLog, you may choose to enter the following types of informati
 
 <div style="background: #f6f8fa; border-radius: 8px; padding: 1.5rem; margin: 1rem 0;">
 
-PocketLog does **not** collect:
+<p><strong>PocketLog does not collect:</strong></p>
 
-| ❌ | Data Type |
-|----|-----------|
-| ❌ | Personal identification information |
-| ❌ | Usage analytics or behavioral data |
-| ❌ | Location tracking data |
-| ❌ | Device identifiers |
-| ❌ | Advertising identifiers |
-| ❌ | Any data for marketing purposes |
+<ul style="list-style: none; padding-left: 0; margin: 0;">
+<li>❌ Personal identification information</li>
+<li>❌ Usage analytics or behavioral data</li>
+<li>❌ Location tracking data</li>
+<li>❌ Device identifiers</li>
+<li>❌ Advertising identifiers</li>
+<li>❌ Any data for marketing purposes</li>
+</ul>
 
 </div>
 
@@ -136,13 +136,13 @@ The only third-party service involved is **Apple's iCloud**, which is:
 
 <div style="background: #f6f8fa; border-radius: 12px; padding: 1.5rem; margin: 1rem 0;">
 
-Your data security is important to us:
+<p><strong>Your data security is important to us:</strong></p>
 
-| Security Measure | Description |
-|------------------|-------------|
-| 🔐 App Sandbox | All data is stored within iOS's secure app sandbox |
-| 🔒 CloudKit Encryption | iCloud data is encrypted using Apple's CloudKit security standards |
-| 📱 Device Security | Your device's built-in security (passcode/Face ID/Touch ID) protects all locally stored data |
+<ul style="list-style: none; padding-left: 0; margin: 0;">
+<li style="margin-bottom: 0.75rem;"><strong>🔐 App Sandbox</strong><br><span style="color: #586069;">All data is stored within iOS's secure app sandbox</span></li>
+<li style="margin-bottom: 0.75rem;"><strong>🔒 CloudKit Encryption</strong><br><span style="color: #586069;">iCloud data is encrypted using Apple's CloudKit security standards</span></li>
+<li><strong>📱 Device Security</strong><br><span style="color: #586069;">Your device's built-in security (passcode/Face ID/Touch ID) protects all locally stored data</span></li>
+</ul>
 
 </div>
 
@@ -188,15 +188,15 @@ PocketLog does not knowingly collect information from children under 13. The app
 
 <div style="background: #f6f8fa; border-radius: 12px; padding: 1.5rem; margin: 1rem 0;">
 
-PocketLog is designed with privacy principles that align with international privacy regulations including GDPR:
+<p>PocketLog is designed with privacy principles that align with international privacy regulations including GDPR:</p>
 
-| Right | How PocketLog Supports It |
-|-------|---------------------------|
-| **Data Minimization** | We collect no data; you control what you store locally |
-| **Right to Access** | All your data is visible within the app at any time |
-| **Right to Portability** | Export your data using the Backup feature |
-| **Right to Erasure** | Delete any data within the app, or delete the app to remove all local data |
-| **No Cross-Border Transfers** | Your data stays on your device or in your iCloud account |
+<ul style="list-style: none; padding-left: 0; margin: 0;">
+<li style="margin-bottom: 0.75rem;"><strong>Data Minimization</strong><br><span style="color: #586069;">We collect no data; you control what you store locally</span></li>
+<li style="margin-bottom: 0.75rem;"><strong>Right to Access</strong><br><span style="color: #586069;">All your data is visible within the app at any time</span></li>
+<li style="margin-bottom: 0.75rem;"><strong>Right to Portability</strong><br><span style="color: #586069;">Export your data using the Backup feature</span></li>
+<li style="margin-bottom: 0.75rem;"><strong>Right to Erasure</strong><br><span style="color: #586069;">Delete any data within the app, or delete the app to remove all local data</span></li>
+<li><strong>No Cross-Border Transfers</strong><br><span style="color: #586069;">Your data stays on your device or in your iCloud account</span></li>
+</ul>
 
 </div>
 
